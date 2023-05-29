@@ -1,0 +1,17 @@
+	 Bienvenu chez super Marché de MARKET TOULE
+
+Numéro Facture : 4350
+
+Nom Client : minkko
+
+Téléphone : 65546609
+
+Email : minkoantoinekelly@gmail.com
+*******************************************************
+Produits		QTE		Prix
+***************************************************************************************************************
+Produits		QTE		Prix
+
+******************************************************************
+Total Bruite : 			Rs.5000.00
+taxe : 			Rs.5000.00
